@@ -1,51 +1,132 @@
 # Robotic Dog Design
 
 ## Student Information
-**Name:** Arjwan Salman Abdulaziz Al-Malki
+
+**Student Name:** Arjwan Salman Abdulaziz Al-Malki
 
 **Track:** Mechanical Engineering
 
 ---
 
-## Project Overview
-This project is part of the Mechanical Engineering Track and focuses on creating a three-dimensional robotic dog model using the Onshape CAD platform. The model was developed as a mechanical design and exported in STL format, making it suitable for digital manufacturing and 3D printing applications.
+# Project Overview
+
+This project was completed as part of the Mechanical Engineering Track using the Onshape CAD platform. The project focuses on creating a three-dimensional robotic dog model that represents a simple mechanical concept suitable for engineering visualization and digital manufacturing.
+
+The completed model was exported as an STL file to demonstrate the complete CAD workflow from digital modeling to manufacturing preparation.
 
 ---
 
-## Project Objectives
-- Learn and practice 3D mechanical modeling using Onshape.
-- Create a robotic dog model using CAD tools.
-- Improve skills in editing and preparing engineering models.
-- Export the final model in STL format.
-- Upload the project files to GitHub.
+# Project Background
+
+Mechanical engineering design requires the ability to transform ideas into digital models that can later be manufactured using CNC machines or 3D printers.
+
+Robotic models are commonly used in engineering education because they combine mechanical structures with practical design concepts while improving CAD modeling skills.
 
 ---
 
-## Software Used
+# Project Objectives
+
+The objectives of this project include:
+
+- Practice mechanical CAD modeling.
+- Improve engineering design skills.
+- Create a robotic dog model using Onshape.
+- Understand solid modeling techniques.
+- Prepare engineering models for STL export.
+- Learn engineering documentation standards.
+- Organize project files using GitHub.
+
+---
+
+# Software Used
+
 - Onshape
+- GitHub
 
 ---
 
-## Output Files
+# Engineering Tools Used
+
+The following tools were used during the project:
+
+- Sketch
+- Line Tool
+- Circle Tool
+- Dimension Tool
+- Extrude
+- Fillet
+- Move View
+- Export STL
+
+---
+
+# Design Workflow
+
+The engineering workflow consisted of:
+
+1. Preparing the robotic dog model inside Onshape.
+2. Reviewing the complete geometry.
+3. Refining the model.
+4. Verifying the final design.
+5. Exporting the completed model as an STL file.
+6. Preparing the documentation.
+7. Uploading the project files to GitHub.
+
+---
+
+# Model Features
+
+- Three-dimensional mechanical model.
+- Solid CAD design.
+- STL printable model.
+- Clean engineering geometry.
+- Organized structure.
+- Educational engineering project.
+
+---
+
+# Skills Developed
+
+This project improved knowledge in:
+
+- Mechanical CAD Design
+- Engineering Modeling
+- STL Preparation
+- Digital Manufacturing
+- CAD Documentation
+- GitHub Repository Organization
+
+---
+
+# Applications
+
+The robotic dog model can be used for:
+
+- Engineering education
+- CAD practice
+- Robotics visualization
+- Mechanical modeling
+- 3D printing demonstrations
+- Educational projects
+
+---
+
+# Challenges
+
+The project required careful preparation of the mechanical model before exporting it as an STL file while ensuring the final model remained suitable for visualization and manufacturing.
+
+---
+
+# Conclusion
+
+This project demonstrates the practical application of Onshape in mechanical engineering design. It provided valuable experience in creating mechanical CAD models, exporting STL files, and preparing engineering documentation for GitHub submission.
+
+---
+
+# Project Files
+
 - Robot Dog.stl
-
----
-
-## Design Process
-1. Opened the robotic dog model in Onshape.
-2. Reviewed and refined the model to improve the final design.
-3. Verified the model before exporting.
-4. Exported the completed design as an STL file.
-5. Uploaded the STL file and project documentation to GitHub.
-
----
-
-## Skills Gained
-- Using the Onshape CAD platform.
-- Understanding the basics of 3D mechanical modeling.
-- Preparing engineering models for 3D printing.
-- Exporting CAD models in STL format.
-- Organizing engineering project files for GitHub submission.
+- README66.md
 
 ---
 
